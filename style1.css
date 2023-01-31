@@ -1,0 +1,46 @@
+.Res a{
+    
+    color:rgb(rgb(218, 45, 45), rgb(47, 192, 47), rgb(100, 100, 200));
+    font-family: "Berkshire Swash", Sans-serif;
+    font-size: 74px;
+    font-weight: 200;
+    letter-spacing: 1.7px;
+}
+.image{
+    width: 400px;
+  height: 300px;
+  margin: -75px 0 0 -100px;
+}
+
+  
+  /* Bottom right text */
+  .text-block {
+    position: absolute;
+    font-style: italic;
+    font-family:serif;
+    font-size:50px;
+    bottom: 100px;
+    left: 10px;
+    right: 50px;
+    color:white;
+    text-shadow: black;
+    text-shadow: 3px;
+    padding: 30px 100px;
+    
+  }
+  .conta button{
+    border-radius: 11px;
+    color:rgb(14, 10, 1);
+    background-color:rgb(198, 137, 63);
+}
+.view button{
+    float:middle;
+    padding: 3px 19px;
+    border-radius: 11px;
+    color: white;
+    background-color: orange;
+    margin-left:50%;
+}
+footer{
+    background-color: black;
+}
